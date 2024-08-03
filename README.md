@@ -7,6 +7,9 @@ docker-compose -f redis-docker-compose.yml up --build
 
 docker-compose -f <name of the file> up 
 
+To see the regis insight 
+Instance IP <public-address>:8001
+
 For Monitoring Directory 
 - docker-compose up -d
 
